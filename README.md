@@ -7,3 +7,7 @@ Which is just a fancy way of saying using a computer to read text. Tesseract is 
 It works best with computer-generated text like text in PDFs or pictures of receipts and invoices. It has a tougher time with images that contain handwritten words.
 On more info about Pytesseract and it's installation visit:  https://pythonforundergradengineers.com/how-to-install-pytesseract.html#:~:text=Point%20pytesseract%20at%20your%20tesseract%20installation%20Create%20a,of%20the%20string%20that%20defines%20the%20file%20location.
 
+
+
+
+Note: The code is in ipynb(notebook) format.
